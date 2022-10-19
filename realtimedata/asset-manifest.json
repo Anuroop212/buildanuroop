@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/realtimedata/static/css/main.8c9b28fa.css",
+    "main.js": "/realtimedata/static/js/main.a9555375.js",
+    "static/media/xray.jpg": "/realtimedata/static/media/xray.57ec9fb5708f88597fa3.jpg",
+    "static/media/md-verse-logo.png": "/realtimedata/static/media/md-verse-logo.900b97182a6bcc31bc0e.png",
+    "index.html": "/realtimedata/index.html",
+    "main.8c9b28fa.css.map": "/realtimedata/static/css/main.8c9b28fa.css.map",
+    "main.a9555375.js.map": "/realtimedata/static/js/main.a9555375.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c9b28fa.css",
+    "static/js/main.a9555375.js"
+  ]
+}
